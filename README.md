@@ -3,6 +3,8 @@
 <h2>Description</h2>
 Project demonstrates the basics of Wireshark and how to analyze protocols and PCAPs. TryHackMe was utilized for this project and I had to find answers to questions the site provided.
 <br />
+<h2>Takeaway</h2>
+Gained hands-on experience in network traffic analysis by using Wireshark to inspect protocols and interpret PCAP files. Strengthened my ability to identify key packet details, filter network data, and apply analytical skills to answer real-world scenario questions through TryHackMe exercises.
 
 <h2>Project Walk-Through:</h2>
 
